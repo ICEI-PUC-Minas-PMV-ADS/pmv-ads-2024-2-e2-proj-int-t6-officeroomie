@@ -1,29 +1,27 @@
 message: Please cite this software using these metadata.
-title:
+title: Office Roomie
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
+  - family-names: Aparecida Ferreira
+    given-names: Brena
+  - family-names: De Souza Araujo
+    given-names: Caio
+  - family-names: Rodrigues Souza
+    given-names: Farley
+  - family-names: Vinicius Sousa Moura
+    given-names: Fernando
+  - family-names: Lucas Andrade dos Santos
+    given-names: Kevin
+  - family-names: Thais Freitas Neves
+    given-names: Marcelly
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Jeunon de Alencar
+    given-names: Bernardo 
 keywords:
-  - 
-  - 
-repository-code: 
+  - Salas
+  - Coworking
+  - Reunioes
+  - Reserva
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-2-e2-proj-int-t6-officeroomie
 version: 1.0.0
-date-released: 2023-10-31
+date-released: 2024-12-08
